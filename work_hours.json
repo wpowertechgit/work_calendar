@@ -1,0 +1,72 @@
+{
+  "2025-12-01": {
+    "raw": "X",
+    "total": 0,
+    "diff": 0,
+    "holiday": 1,
+    "note": "Sărbătoare legală"
+  },
+  "2025-12-03": {
+    "raw": "10-17",
+    "total": 7,
+    "diff": 3,
+    "holiday": 0,
+    "note": "Zi lucrătoare"
+  },
+  "2025-12-04": {
+    "raw": "10-18",
+    "total": 8,
+    "diff": 4,
+    "holiday": 0,
+    "note": "Zi lucrătoare"
+  },
+  "2025-12-05": {
+    "raw": "10-16",
+    "total": 6,
+    "diff": 2,
+    "holiday": 0,
+    "note": "Zi lucrătoare"
+  },
+  "2025-12-08": {
+    "raw": "10-16",
+    "total": 6,
+    "diff": 2,
+    "holiday": 0,
+    "note": "Zi lucrătoare"
+  },
+  "2025-12-10": {
+    "raw": "11-17",
+    "total": 6,
+    "diff": 2,
+    "holiday": 0,
+    "note": "Zi lucrătoare"
+  },
+  "2025-12-11": {
+    "raw": "10-16",
+    "total": 6,
+    "diff": 2,
+    "holiday": 0,
+    "note": "Zi lucrătoare"
+  },
+  "2025-12-12": {
+    "raw": "12-16",
+    "total": 4,
+    "diff": 0,
+    "holiday": 0,
+    "note": "Zi lucrătoare"
+  },
+  "2025-12-02": {
+    "raw": "-",
+    "total": 0,
+    "diff": 0,
+    "holiday": 0,
+    "note": "Zi lucrătoare lipsă (−4h)"
+  },
+  "2025-12-09": {
+    "raw": "-",
+    "total": 0,
+    "diff": 0,
+    "holiday": 0,
+    "note": "Zi lucrătoare lipsă (−4h)"
+  }
+}
